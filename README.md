@@ -1,2 +1,2 @@
 # wn-salience-dataset
-A corpus of news articles with entity salience annotations
+A corpus of news articles extracted from WikiNews, together with automatically generated entity salience annotations.
